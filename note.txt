@@ -1,0 +1,11 @@
+    - var bị hoisting
+    - Một số method hữu dụng string: includes, length, startsWith, endsWith, split,
+indexOf, lastIndexOf, toUpperCase, toLowerCase, replace, slice, trim, charAt, substr,
+substring
+    - substr(index, length), substring(start_index, end_index)
+
+    - number: 
+    - number(index, length)
+        + Math.floor : làm tròn xuống
+        + Math.ceil : làm tròn lên
+        + Math.round : làm tròn
